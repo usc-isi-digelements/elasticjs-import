@@ -1,2 +1,2 @@
 # elasticjs-import
-Common import file for DigElements that use DigElements/elastic.js as a dependency.
+Common import for DigElements that use elastic.js as a dependency. Used to prevent possible duplication of elastic.js contents during the vulcanize process. This currently references a fork of elastic.js located in DigElements.

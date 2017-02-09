@@ -1,0 +1,25 @@
+{
+  "name": "elasticjs-import",
+  "description": "Common import for DigElements that use elastic.js as a dependency.",
+  "version": "1.0.0",
+  "authors": ["Next Century"],
+  "license": "Apache-2.0",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "elastic",
+    "elasticsearch",
+    "elastic.js"
+  ],
+  "main": "elasticjs-import.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/DigElements/elasticjs-import/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.7.0",
+    "elastic.js": "DigElements/elastic.js#6639a1030eb071fb762bcdd742fdbf037fb57b24"
+  }
+}
