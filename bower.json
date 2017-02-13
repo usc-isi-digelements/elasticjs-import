@@ -11,7 +11,7 @@
     "elasticsearch",
     "elastic.js"
   ],
-  "main": "elasticjs-import.html",
+  "main": "elasticjs.html",
   "license": "http://polymer.github.io/LICENSE.txt",
   "homepage": "https://github.com/DigElements/elasticjs-import/",
   "ignore": [
