@@ -11,12 +11,12 @@
     "elastic.js"
   ],
   "main": "elasticjs.html",
-  "homepage": "https://github.com/DigElements/elasticjs-import/",
+  "homepage": "https://github.com/usc-isi-digelements/elasticjs-import/",
   "ignore": [
     "/.*",
     "/test/"
   ],
   "dependencies": {
-    "elastic.js": "DigElements/elastic.js#6639a1030eb071fb762bcdd742fdbf037fb57b24"
+    "elastic.js": "usc-isi-digelements/elastic.js#6639a1030eb071fb762bcdd742fdbf037fb57b24"
   }
 }
