@@ -1,22 +1,16 @@
 {
   "name": "elasticjs-import",
-  "description": "Common import for DigElements that use elastic.js as a dependency.",
+  "description":
+    "Common import for DigElements that use elastic.js as a dependency.",
   "version": "1.0.1",
   "authors": ["Next Century"],
   "license": "Apache-2.0",
-  "keywords": [
-    "dig",
-    "elastic",
-    "elasticsearch",
-    "elastic.js"
-  ],
+  "keywords": ["dig", "elastic", "elasticsearch", "elastic.js"],
   "main": "elasticjs.html",
   "homepage": "https://github.com/usc-isi-digelements/elasticjs-import/",
-  "ignore": [
-    "/.*",
-    "/test/"
-  ],
+  "ignore": ["/.*", "/test/"],
   "dependencies": {
-    "elastic.js": "usc-isi-digelements/elastic.js#^6639a1030eb071fb762bcdd742fdbf037fb57b24"
+    "elastic.js":
+      "usc-isi-digelements/elastic.js#6639a1030eb071fb762bcdd742fdbf037fb57b24"
   }
 }
